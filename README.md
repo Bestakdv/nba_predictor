@@ -21,12 +21,19 @@ python gui.py
 
 ## Data Used for Prediction
 Points per game
+
 Rebounds per game
+
 Assists per game
+
 Field goal percentage
+
 Three-point percentage
+
 Free throw percentage
+
 Steals per game
+
 Blocks per game
 
 This should only be used for fun as many factors outside of statistics affect a basketball game.
