@@ -1,6 +1,7 @@
 # NBA Game Predictor
 
 Created on: 5/20/2025
+
 Put on GitHub on: 10/19/2025
 
 A machine learning model to predict some NBA games during the 2025 NBA playoffs using real-time NBA statistics!
