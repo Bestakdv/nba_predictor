@@ -36,4 +36,5 @@ Steals per game
 
 Blocks per game
 
+## Disclaimer
 This should only be used for fun as many factors outside of statistics affect a basketball game.
